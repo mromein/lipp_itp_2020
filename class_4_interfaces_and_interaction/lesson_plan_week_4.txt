@@ -1,0 +1,30 @@
+Week 4 Lesson Plan
+
+- Blog Posts
+- Artist Presentation
+- Week 5 Performance Overview
+
+::Break::
+
+- jit.window / fullscreen
+- Presentation Mode
+- Presets
+- Send/Receive
+- Interface Objects
+	- slider
+	- dial
+	- radiogrouo
+	- radio group w/ checkboxes
+	- rslider
+	- kslider
+	- multislider
+	- swatch
+	- suckah
+- Key Mapping (Max 8)
+- MIDI Mapping (Max 8)
+- Arduino
+- OSC
+	- UDP Send
+	- UDP Receive
+	- Touch OSC
+	- Networked Collaboration
